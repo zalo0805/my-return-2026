@@ -1,12 +1,12 @@
-# my-return-2026
+markdown# my-return-2026
+Mi retorno a la programacion desde Lima, Peru. 10 anios despues.
 
-hola soy gonzalo desde lima
-volvi a programar en 2026 desde cero, sin copy paste.
+## Semana 1 - 7 dias seguidos
+- Dia 2: Hola mundo
+- Dia 3: Variables
+- Dia 4: Input del usuario
+- Dia 5: Calculadora 87,600 horas / anio
+- Dia 6: Primer bucle for - gonzalo volvio x3
+- Dia 7: Primeras funciones y menu interactivo
 
-## mi camino
-- Dia 1: hola.py
-- Dia 2: variable y f-strings
-- Dia 3: if else
-
-Objetivo: volver a trabajar en tecnologia.
-Hecho con esfuerzo desde lima.
+Objetivo: Volver a ser dev. 1 dia a la vez.
