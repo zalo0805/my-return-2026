@@ -1,1 +1,9 @@
+dia 1 volvi a programar
+dia 2 variables
+dia 3 if else
+dia 4 funciones
+dia 5 bucles
+dia 6 listas
+dia 7 primera semana cerrada
 dia 8: dia 8
+dia 9: contador de racha
