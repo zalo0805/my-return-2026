@@ -7,3 +7,5 @@ dia 6 listas
 dia 7 primera semana cerrada
 dia 8: dia 8
 dia 9: contador de racha
+dia 10:mejorar
+dia 10:dev
