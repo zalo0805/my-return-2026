@@ -9,3 +9,4 @@ dia 8: dia 8
 dia 9: contador de racha
 dia 10:mejorar
 dia 10:dev
+dia 11: practica profunda for + contador
