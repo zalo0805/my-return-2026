@@ -11,3 +11,4 @@ dia 10:mejorar
 dia 10:dev
 dia 11: practica profunda for + contador
 dia 12: diccionario y palabra mas repetida es dia - 13 dias imparable
+dia 13: funciones- codigo refaactorizado y profesional
