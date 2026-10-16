@@ -29,3 +29,13 @@ for palabra, cantidad in conteo.items():
         mas_repetida = palabra
 print(f"\n tu palabra mas repétida es '{mas_repetida}' con {max_veces} veces")
 print(f" ¡has escrito '{mas_repetida}' {max_veces} dias seguidos sin fallar!")
+
+# nivel 3 - guardar analisis
+with open("analisis.txt", "w", encoding = "utf-8") as salida:
+    salida.write(f"analisis de {len(palabras)} palabras totales\n")
+    salida.write(f"palabra mas repetida: {mas_repetida} - {max_veces} veces\n")
+    for palabra, cantidad in conteo.items():
+        if cantidad > 1:
+            salida.write(f"- {palabra}: {cantidad}\n")
+print("\n analisis guardado en analisis.txt")
+    

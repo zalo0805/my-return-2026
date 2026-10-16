@@ -1,0 +1,5 @@
+analisis de 59 palabras totales
+palabra mas repetida: dia - 15 veces
+- dia: 15
+- 8: 2
+- contador: 2
